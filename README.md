@@ -18,7 +18,7 @@
 
 ### 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/adrija-praveen-4b8055375/) · 🐙 [GitHub](https://github.com/adrijapraveen19-code)
+💼 [LinkedIn](https://www.linkedin.com/in/adrija-praveen-4b8055375/) 
 
 *Build → break → debug → learn → repeat. 🔁*
 
