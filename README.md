@@ -1,6 +1,6 @@
-# Hi, I'm Adrija! 👋🌱
+## Hi, There! 👋🌱
 
-🎓 Computer Science Engineering student at Sathyabama Institute of Science and Technology  
+🎓 Computer Science Engineering student.
 💻 I enjoy turning ideas into small projects and learning by building.  
 🤖 Currently exploring AI/ML, backend development, and software engineering.  
 🐛 Balancing code, anime, deadlines, and the occasional meltdown.
